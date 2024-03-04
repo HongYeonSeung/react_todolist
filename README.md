@@ -1,9 +1,6 @@
 # react_todolist
 ## Link
-
 https://hongyeonseung.github.io/react_todolist/
-
-## 디자인 초안
 
 ## 개발 초안
 1. 페이지 입장 
@@ -13,3 +10,6 @@ https://hongyeonseung.github.io/react_todolist/
 5. 최대 10개의 메모 , 리스트가 늘어날시 중간 박스도 늘어나야됨
 6. 체크버튼을 이미지 2개로 해서 클릭시 토글변경되게끔 
 7. 10개 이상 생성시 경고메세지
+
+## 디자인 초안
+![초안](https://github.com/HongYeonSeung/react_todolist/assets/105265694/a7daa3c0-d077-499d-94e7-8c50d5299856)
