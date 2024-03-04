@@ -1,8 +1,8 @@
 # react_todolist
 ## Link
-```sh
+
 https://hongyeonseung.github.io/react_todolist/
-```
+
 ## 디자인 초안
 
 ## 개발 초안
